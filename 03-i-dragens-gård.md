@@ -51,7 +51,7 @@ Hvad angik prædiken kunne jeg ikke høre et ord på grund af den sang, der kør
 
 > "Skørterne af St. Paul har opnået.  
 > Efter at have prædiket seks lånte foredrag,  
-> Flere glæder end han nogensinde prædikede,"
+> Flere glæder end han nogensinde prædikede,"  
 
 Blandet med andre fantastisk og respektløse tanker. 
 

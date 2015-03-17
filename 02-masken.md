@@ -44,7 +44,7 @@ Vi sad i et hjørne af hans studie tæt ved den ikke afsluttede gruppe "Trosretn
 
 "Forresten, jeg er færdig med at tilrette Ariadne, og jeg tror, at den skal sættes til salg. Det er alt, hvad jeg får gjort færdig i år, men efter succesen som 'Madonna' bragte mig, føler jeg skam over at fremvise en figur som denne." 
 
-Madonna var en udsøgt marmor-skulptur, som Geneviève havde siddet model for, og den var sidste års kunstmesses sensation. Jeg kiggede på Ariadne. Den var et storslået teknisk arbejde, men jeg var enig med Boris i, at verden forventede mere af ham end dette. Men det var umuligt at forestille sig, at han kunne færdiggøre den fremragende og uhyggelige marmor-gruppe, halvt tildækket, som stod bag mig. "Trosretningerne" måtte vente.   
+Madonna var en udsøgt marmor-skulptur, som Geneviève havde siddet model for, og den var sidste års kunstmesses sensation. Jeg kiggede på Ariadne. Den var et storslået teknisk arbejde, men jeg var enig med Boris i, at verden forventede mere af ham end dette. Men det var umuligt at forestille sig, at han kunne færdiggøre den fremragende og uhyggelige marmor-gruppe, halvt tildækket, som stod bag mig. "Trosretningerne" måtte vente. 
 
 Vi var stolte over Boris Yvrain. Vi anerkendte ham og han anerkendte os. Han var født i Amerika, selvom hans far var franskmand og moderen en russer. Enhver i 'Beaux Arts' kaldte ham for Boris. Og alligevel var der kun to af os, som han tiltalte i den samme familiære tone; Jack Scott og så mig.
 
