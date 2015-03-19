@@ -22,13 +22,7 @@ format-arguments:
     epub: -S --toc --toc-depth=1
     mobi: ok
     html-split: ok
-menu: 
-    Forord: 00-forord.md
-    En test: 01-reparatøren-af-omdømme.md
-    Masken: 02-masken.md
-    I Dragens Gård: 03-i-dragens-gård.md
-    Det gule tegn: 04-det-gule-tegn.md
-    Profeternes paradis: 06-profeternes-paradis.md
+
 ignore-files:
     - README.md
 ...
