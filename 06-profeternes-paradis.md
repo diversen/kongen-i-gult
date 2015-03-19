@@ -7,7 +7,7 @@
 
 #### Studiet
 
-![gittobook image](/images/kongen-i-gult.png "image")
+![gittobook image](images/kongen-i-gult.png "image")
 
 Han smilte og sagde: "Søg hende i verdenen". 
 
