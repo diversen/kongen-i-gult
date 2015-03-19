@@ -11,7 +11,7 @@ Han smilte og sagde: "Søg hende i verdenen".
 
 Jeg sagde: "Hvorfor fortælle mig om verdenen? Min verden er her, mellem disse vægge og glassets foroven; her iblandt glitrende flasker og kedeligt forgyldte våbenskjold, plettede rammer og lærreder, sorte kister og højryggede stole med mærkelige udskæringer og farvet i blåt og guld."
 
-Hvem venter du på?" sagde han, og jeg svarede: "Når hun kommer så skal jeg kende hende."
+"Hvem venter du på?" sagde han, og jeg svarede: "Når hun kommer så skal jeg kende hende."
 
 I mit ildsted viskede en tunge af flammer hemmeligheder til den hvide aske. I gaden nedenfor hørte jeg fodtrin, en stemme og en sang. 
 
