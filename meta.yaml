@@ -21,7 +21,7 @@ format-arguments:
     html: -S --chapters --toc
     epub: -S --toc --toc-depth=1
     mobi: ok
-    html-split: ok
+    html-chunked: -s -S
 
 ignore-files:
     - README.md
