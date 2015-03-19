@@ -25,10 +25,10 @@ format-arguments:
 menu: 
     Forord: 00-forord.md
     En test: 01-reparatøren-af-omdømme.md
-    02-masken.md
-    03-i-dragens-gård.md
-    04-det-gule-tegn.md
-    06-profeternes-paradis.md
+    Masken: 02-masken.md
+    I Dragens Gård: 03-i-dragens-gård.md
+    Det gule tegn: 04-det-gule-tegn.md
+    Profeternes paradis: 06-profeternes-paradis.md
 ignore-files:
     - README.md
 ...
