@@ -9,7 +9,7 @@ language: da-DK
 tags: [lovecraft, cthulhu]
 cover-image: images/kongen-i-gult.png
 lang: da
-date: '2015-01-27'
+#date: '2015-01-27'
 stylesheet: epub.css
 publisher: http://gittobook.org
 rights: http://creativecommons.org/licenses/by-sa/2.5/
