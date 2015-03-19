@@ -3,7 +3,7 @@
 > Hvis kun vin og kærlighedens fornægtere
 > vil stå i profeternes paradis,
 > Så ak. Jeg tvivler på at profeternes paradis 
-> er tomt som det hule af min hånd  
+> er tomt som det hule af min hånd
 
 #### Studiet
 
@@ -45,7 +45,7 @@ Langt borte skreg en kvinde, "jeg har dræbt ham, som jeg elskede!" og fra en kr
 
 Langt borte fulgte jeg med, og på krukken læste jeg tusinde navne, mens det friske blod skvulpede til randen. 
 
-"Jeg har dræbt ham, som jeg elskede!" skreg hun. "Verden tørster, lad den drikke!" Hun gik  bort og langt borte så jeg hende hælde blod på blomsterne, hvor kronbladene var hvidere end sne og hvor hjerterne var det reneste guld.  
+"Jeg har dræbt ham, som jeg elskede!" skreg hun. "Verden tørster, lad den drikke!" Hun gik bort og langt borte så jeg hende hælde blod på blomsterne, hvor kronbladene var hvidere end sne og hvor hjerterne var det reneste guld. 
 
 #### Skæbnen
 
@@ -53,7 +53,7 @@ Jeg kom til en bro, hvor kun få må passere.
 
 "Passer!" råbte vogteren, men jeg lo, og sagde, "Der er endnu tid", og han smilte og lukkede portene. 
 
-Til broen, hvor kun få må passere kom der unge og gamle. Alle blev nægtet adgang. Stille stod jeg og talte dem, indtil, trættet af deres støj og klageråb, jeg igen kom til broen, hvor kun få må passere.  
+Til broen, hvor kun få må passere kom der unge og gamle. Alle blev nægtet adgang. Stille stod jeg og talte dem, indtil, trættet af deres støj og klageråb, at jeg igen kom til broen, hvor kun få må passere.
 
 Skaren foran porten skreg op, "Han kommer for sent!" Men jeg lo, og sagde: "Der er tid."
 
