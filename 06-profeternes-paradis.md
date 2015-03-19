@@ -1,9 +1,9 @@
 # Profeternes Paradis
 
-> Hvis kun vin og kærlighedens fornægtere
-> vil stå i profeternes paradis,
-> Så ak. Jeg tvivler på at profeternes paradis 
-> er tomt som det hule af min hånd
+> Hvis kun vin og kærlighedens fornægtere  
+> vil stå i profeternes paradis,  
+> Så ak. Jeg tvivler på at profeternes paradis   
+> er tomt som det hule af min hånd  
 
 #### Studiet
 
