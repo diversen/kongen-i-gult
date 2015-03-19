@@ -1,3 +1,9 @@
+---
+title: 'Test Gult'
+Subtitle: > 
+    Oversættelse af udvalgte noveller af Robert W. Chambers 'The King in        Yellow' til dansk. Jeg arbejder på at at oversætte hele bogen i løbet af 2015, da jeg ikke har kunnet finde andre oversættelser. 
+...
+
 # Reparatøren af Omdømme
 
 > Langs kysten skyer bryder bølger,  
