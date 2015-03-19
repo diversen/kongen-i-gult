@@ -1,15 +1,14 @@
 ---
 title: 'Kongen i Gult'
 Subtitle: > 
-    Oversættelse af udvalgte noveller af Robert W. Chambers 'The King in        Yellow' til dansk. Jeg arbejder på at at oversætte hele bogen i løbet af 2015, da jeg ikke har kunnet finde andre oversættelser. 
+    Dansk oversættelse af udvalgte noveller fra Robert W. Chambers 'The King in Yellow' til dansk. 
 author:
 - Robert W. Chambers
 keywords: ebooks, Chambers
 language: da-DK
-tags: [lovecraft, cthulhu]
+tags: [king in yellow, chambers]
 cover-image: images/kongen-i-gult.png
 lang: da
-#date: '2015-01-27'
 stylesheet: epub.css
 publisher: http://gittobook.org
 rights: http://creativecommons.org/licenses/by-sa/2.5/
