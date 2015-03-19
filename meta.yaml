@@ -16,10 +16,10 @@ rights: http://creativecommons.org/licenses/by-sa/2.5/
 # pandoc format arguments
 # because of security these options are limited
 format-arguments:
-    # html: -S --chapters --toc
+    html: -S --chapters --toc
     epub: -S --toc --toc-depth=1
     mobi: ok
-    html-chunked: -s -S
+    #html-chunked: -s -S
 
 ignore-files:
     - README.md
