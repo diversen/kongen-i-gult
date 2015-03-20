@@ -21,7 +21,7 @@ private: true
 format-arguments:
     #html: -S --chapters --toc
     #epub: -S --toc --toc-depth=1
-    mobi: ok
+    #mobi: ok
     #html-chunked: -s -S
 # ignore files
 ignore-files:
