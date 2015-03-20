@@ -1,12 +1,12 @@
 ---
-title: 'Kongen i Gult<br ><br />'
+title: 'Kongen i Gult'
 Subtitle: > 
-    Dansk <br ><br>oversættelse af udvalgte noveller fra Robert W. Chambers 'The King in Yellow' til dansk. 
+    Dansk oversættelse af udvalgte noveller fra Robert W. Chambers 'The King in Yellow' til dansk. 
 author:
 - Robert W. Chambers
-keywords: ebooks, Chambers<br/>
+keywords: ebooks, Chambers
 language: da-DK
-tags: [the king in yellow, chambers<br/>]
+tags: [the king in yellow, chambers]
 cover-image: images/kongen-i-gult.png
 lang: da
 stylesheet: epub.css
