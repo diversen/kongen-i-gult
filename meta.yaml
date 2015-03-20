@@ -20,7 +20,9 @@ format-arguments:
     epub: -S --toc --toc-depth=1
     mobi: ok
     html: -s -S
-
+menu:
+    00-forord.md: Forod
+    01-reparatøren-af-omdømme.md: Reparatøren af Omdømme
 ignore-files:
     - README.md
 ...
