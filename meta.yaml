@@ -13,6 +13,9 @@ stylesheet: epub.css
 publisher: http://gittobook.org
 rights: http://creativecommons.org/licenses/by-sa/2.5/
 
+# are exports private or not / only repo owner can download exports (epub, mobi)
+private: true
+
 # pandoc format arguments
 # because of security these options are limited
 format-arguments:
