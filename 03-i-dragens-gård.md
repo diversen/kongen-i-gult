@@ -53,7 +53,7 @@ Hvad angik prædiken kunne jeg ikke høre et ord på grund af den sang, der kør
 > Efter at have prædiket seks lånte foredrag,  
 > Flere glæder end han nogensinde prædikede,"  
 
-Blandet med andre fantastisk og respektløse tanker. 
+Blandet med andre fantastiske og respektløse tanker. 
 
 Der var ikke længere nogen grund til at blive siddende: Jeg måtte ud af dørene og ryste mig selv fri af dette hadefulde humør. Jeg vidste at dette i sig selv ligeledes var en fornærmelse, men jeg rejste mig og forlod kirken.
 

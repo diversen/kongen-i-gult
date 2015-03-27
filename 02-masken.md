@@ -30,7 +30,7 @@ Fisken så ud, som om at den var lavet i marmor. Men hvis du holdt den op mod ly
 
 "Det ligner en klar stråle af sollys, " sagde han. "Jeg ved det ikke, men strålen kommer altid, når jeg sænker noget levende derned. Måske, " fortsatte han smilende, "måske er det væsenets vitale gnist, som vender tilbage til den kilde, hvorfra den er kommet. "
 
-Jeg så, at han spottede og truede *ham* med en malerstok, men han så lo han og skiftede emne. 
+Jeg så, at han spottede og truede *ham* med en malerstok, men så lo han og skiftede emne. 
 
 "Bliv til frokost. Geneviève vil snart være her." 
 
@@ -70,7 +70,7 @@ Det ville være svært at finde nogen med større uvidenhed om fænomenet end mi
 
 "Hvilket nyt element?"
 
-"Hm. Jeg ikke tænkt mig at give det et navn, og jeg tror ikke, at det nogensinde vil ske. Der er allerede rigeligt med dyrebare metaller i verden til at knuse struber med."
+"Hm. Jeg har ikke tænkt mig at give det et navn, og jeg tror ikke, at det nogensinde vil ske. Der er allerede rigeligt med dyrebare metaller i verden til at knuse struber med."
 
 Mine ører rejste sig. "Har du opfundet guld, Boris?"
 
@@ -90,15 +90,15 @@ Geneviève var klædt i sølvgråt fra hoved til fod. Lyset glimtende omkring he
 
 Mens vi diskuterede det tilrådelige i min forsvinden, dukkede Geneviève igen op i døren uden hendes hat. Hun var fantastisk smuk, men hendes kulør var for dyb og hendes øjne for skinnende. Hun gik direkte hen til mig og tog min arm. 
 
-"Frokosten er klar.  Var jeg på tværs, Alec? Jeg tænkte, at jeg havde en hovedpine, men det havde jeg ikke. Kom nu Boris, " og hun lod sin anden arm glide gennem hans. "Alec ved, at der efter dig ikke er nogen i denne verden, som jeg holder så meget af som ham . Hvis han nogle gange føler sig overset, så skader det ham ikke."
+"Frokosten er klar. Var jeg på tværs, Alec? Jeg tænkte, at jeg havde en hovedpine, men det havde jeg ikke. Kom nu Boris, " og hun lod sin anden arm glide gennem hans. "Alec ved, at der efter dig ikke er nogen i denne verden, som jeg holder så meget af som ham . Hvis han nogle gange føler sig overset, så skader det ham ikke."
 
 "À la bonheur!" sagde jeg højt, "hvem siger, at der ikke er tordenvejr i April?"
 
-"Er du klar," messede Boris. "Ja, jeg er klar." Og arm i arm skyndte vi os ind i spisestuen, og chokerede tjenestefolkene. Under alle omstændigheder kunne vi ikke gives megen skyld. Geneviève var atten, Boris treogtyve, og jeg var snart enogtyve. 
+"Er du klar," messede Boris. "Ja, jeg er klar." Og arm i arm skyndte vi os ind i spisestuen, og chokerede tjenestefolkene. Under alle omstændigheder kunne vi ikke gives megen skyld. Geneviève var atten, Boris treogtyve, og jeg snart enogtyve. 
 
 #### II
 
-En del arbejde, som jeg udførte på dekorationer i Genevièves soveværelse, holdt mig konstant i huset på Rue Sainte-Cécile. I de dage arbejde Boris og jeg hårdt, men ikke mere end at vi stadig følte glæde ved det, hvilket var passende. Og sammen med Jack Scott tilbragte vi meget tid. 
+En del arbejde, som jeg udførte på dekorationer i Genevièves soveværelse, holdt mig konstant i huset på Rue Sainte-Cécile. I de dage arbejdede Boris og jeg hårdt, men ikke mere end at vi stadig følte glæde ved det, hvilket var passende. Og sammen med Jack Scott tilbragte vi meget tid. 
 
 En rolig eftermiddag gik jeg rundt i huset alene og ledte i hjørnerne, hvor jeg fandt gemte søde sager og cigarer fra hemmelige gemmesteder. Til sidste standsede jeg op i badeværelset af marmor. Her stod Boris smurt ind i ler og vaskede sine hænder. 
 
@@ -116,9 +116,9 @@ Jeg rystede en smule, og tørt rådede jeg ham til at huske bedre, hvor han opbe
 
 "På mig, for eksempel!"
 
-"Ah! Det er for tæt på, til at det er morsomt; men jeg ønsker, at se opløsningens arbejde på et højere væsen; der er denne store hvide kanin, " sagde han, og fulgte mig ind i studiet. 
+"Ah! Det er for tæt på, til at det er morsomt; men jeg ønsker, at se opløsningens arbejde på et højere væsen; der er denne store hvide kanin," sagde han, og fulgte mig ind i studiet. 
 
-Jack Scott, som bar en maling-plettet jakke, kom gående ind, og greb alle de orientalske søde sager, som han kunne have i sine hænder, plyndrede en kasse med cigaretter, og til sidst forsvandt han og Boris for at besøge Luxembourg galleriet, hvor en ny bronzestatue af Rodin og et landskab af Monet i særlig grad tiltrak sig opmærksomhed fra det kunstneriske Frankrig. Jeg gik tilbage til studiet, og genoptog mit arbejde. Det var en renæssance skærm, som Boris ønskede, at jeg malede til Genevièves soveværelse. Men drengen, som skulle posere, nægtede at adlyde. Han kunne ikke holde sig i ro i den samme position, og indenfor fem minutter, havde jeg en lang række forskellige udkast af den lille knægt. 
+Jack Scott, som bar en maling-plettet jakke, kom gående ind og greb alle de orientalske søde sager, som han kunne have i sine hænder, plyndrede en kasse med cigaretter, og til sidst forsvandt han og Boris for at besøge Luxembourg galleriet, hvor en ny bronzestatue af Rodin og et landskab af Monet i særlig grad tiltrak sig opmærksomhed fra det kunstneriske Frankrig. Jeg gik tilbage til studiet og genoptog mit arbejde. Det var en renæssance skærm, som Boris ønskede, at jeg malede til Genevièves soveværelse. Men drengen, som skulle posere, nægtede at adlyde. Han kunne ikke holde sig i ro i den samme position, og indenfor fem minutter havde jeg en lang række forskellige udkast af den lille knægt. 
 
 "Poserer du eller udfører du en sang eller en dans, min ven?" udspurgte jeg.
 
