@@ -4,7 +4,7 @@
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
 \usepackage{fixltx2e} % provides \textsubscript
-\usepackage[margin=0.7n, paperwidth=6in, paperheight=9in]{geometry}
+\usepackage[margin=0.7in, paperwidth=6in, paperheight=9in]{geometry}
 
 % use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
