@@ -12,7 +12,7 @@ lang: da
 stylesheet: epub.css
 publisher: http://gittobook.org
 rights: http://creativecommons.org/licenses/by-sa/2.5/
-
+date: 1895
 # are exports private or not / only repo owner can download exports (epub, mobi)
 private: true
 
