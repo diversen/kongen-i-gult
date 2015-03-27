@@ -20,6 +20,7 @@ private: true
 # because of security these options are limited
 format-arguments:
     #html: -S --chapters --toc
+    pdf: -S --toc
     epub: -S --toc --toc-depth=1
     mobi: ok
     html-chunked: -s -S
