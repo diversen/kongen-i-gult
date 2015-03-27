@@ -154,7 +154,8 @@ $endif$
 \setlength{\parskip}{0em}
 
 % titles
-\titleformat{\chapter}{\normalfont\huge}{\thechapter.}{20pt}{\huge\it}
+% \titleformat{\chapter}{\normalfont\huge}{\thechapter.}{18pt}{\huge\it}
+\titleformat{\chapter}{\normalfont\huge}{\thechapter.}{18pt}
 
 \begin{document}
 
