@@ -155,7 +155,7 @@ $endif$
 
 % titles
 % \titleformat{\chapter}{\normalfont\huge}{\thechapter.}{18pt}{\huge\it}
-\titleformat{\chapter}{\normalfont\huge}{\thechapter.}{18pt}
+\titleformat{\chapter}{\normalfont\huge}{\thechapter.}{14pt}{\huge}
 
 \begin{document}
 
