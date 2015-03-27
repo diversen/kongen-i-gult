@@ -1,5 +1,3 @@
 # Forord
 
-Dette er en oversættelse af Chambers novellesamling 'The King in Yellow' til dansk. Af historierne er kun medtaget dem, der har en mystisk karakter, og som omhandler bogen 'Kongen i Gult'.
-
-Dennis Iversen
+Dette er en oversættelse af de bedste noveller fra Robert W. Chambers novellesamling 'The King in Yellow'. Historierne er oversat af Dennis Iversen.
