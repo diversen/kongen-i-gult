@@ -1,9 +1,10 @@
 %\documentclass[$if(fontsize)$$fontsize$,$endif$$if(lang)$$lang$,$endif$$if(papersize)$$papersize$,$endif$$for(classoption)$$classoption$$sep$,$endfor$]{$documentclass$}
-\documentclass[14pt]{srcbook}
+\documentclass[14pt]{extreport}
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
+\usepackage{titlesec}
 \usepackage{fixltx2e} % provides \textsubscript
 \usepackage[margin=0.7in, paperwidth=6in, paperheight=9in]{geometry}
 
@@ -151,6 +152,10 @@ $endif$
 
 \setlength{\parindent}{1em}
 \setlength{\parskip}{0em}
+
+% titles
+\titleformat{\chapter}{\normalfont\huge}{\thechapter.}{20pt}{\huge\it}
+
 \begin{document}
 
 $if(title)$
