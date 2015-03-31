@@ -23,7 +23,7 @@ Jeg kiggede på Tessie. Hun var ikke forandret, og den klare glød af sundhed st
 
 "Du poserer perfekt."
 
-"Så er det ikke min fejl?"
+"Så det er ikke min fejl?"
 
 "Nej. Det er min egen." 
 
@@ -45,13 +45,13 @@ Jeg vidste ikke, om det var noget i terpentinen, eller om det var en defekt i l�
 
 "Så, da!"
 
-"Det må være terpentinen, eller noget, " indrømmede hun. 
+"Det må være terpentinen, eller noget andet, " indrømmede hun. 
 
-Hun trak i en japansk kåbe og gik hen til vinduet. Jeg skrabede og gned, indtil jeg var træt, og til sidst samlede jeg mine pensler op og smed dem mod lærredet med et kraftfuldt udtryk, hvilket Tessie kun høre.
+Hun trak i en japansk kåbe og gik hen til vinduet. Jeg skrabede og gned, indtil jeg var træt, og til sidst samlede jeg mine pensler op og smed dem mod lærredet med et kraftfuldt udtryk, hvilket Tessie kunne høre.
 
 Ikke desto mindre begyndte hun nu: "Er det sådan! Band og opfør dig tåbeligt og ødelæg dine pensler! Du har brugt tre uger på dette billede, og se nu! Hvad godt kommer der ud at ødelægge lærredet? Kunstnere er nogle mærkelige væsener!"
 
-Jeg følte meget skam, som jeg sædvanligvis føler efter et sådant udbrud, og jeg vendte det ødelagte lærred mod væggen. Tessie hjalp mig med at rense mine pensler, og dansede så bort for at klæde om. Fra skærmen gav hun mig gode råd om, hvad man skulle gøre, hvis man helt eller delvist mistede fatningen; indtil hun syntes, at jeg sikkert havde hørt rigeligt, og hun kom da ud og bad mig om at knappe på hendes ryg, hvor hun ikke selv kunne nå. 
+Jeg følte megen skam, som jeg sædvanligvis føler efter et sådant udbrud, og jeg vendte det ødelagte lærred mod væggen. Tessie hjalp mig med at rense mine pensler, og dansede så bort for at klæde om. Fra skærmen gav hun mig gode råd om, hvad man skulle gøre, hvis man helt eller delvist mister fatningen; indtil hun syntes, at jeg sikkert havde hørt rigeligt, og hun kom da ud og bad mig om at knappe hendes ryg, hvor hun ikke selv kunne nå. 
 
 "Alt gik galt efter første gang, hvor du kom tilbage fra vinduet og talte om den rædselsvækkende mand, som du havde set på kirkegården, " annoncerede hun. 
 
@@ -69,7 +69,7 @@ Jeg nikkede.
 
 "Hvordan skulle jeg vide det?" smilte jeg.
 
-Tessie smilte som svar.  
+Tessie smilte som svar.
 
 "Du var i drømmen, " sagde hun, "så måske ved du noget om det." 
 
@@ -101,13 +101,13 @@ Tessie lænede sig tilbage mod det åbne vindue og begyndte at tale meget nærv�
 
 "Manden - den mand nede i kirkegården; han kørte rustvognen."
 
-"Vrøvl, sagde jeg, men Tessies øjne var vidt åbne af rædsel. Jeg gik hen til vinduet og kiggede ud. Manden var gået. "Kom, Tessie, " opfordrede jeg, "lad være med at være tåbelig. Du har poseret for lang tid; det er dine nerver." 
+"Vrøvl", sagde jeg, men Tessies øjne var vidt åbne af rædsel. Jeg gik hen til vinduet og kiggede ud. Manden var gået. "Kom, Tessie, " opfordrede jeg, "lad være med at være tåbelig. Du har poseret for lang tid; det er dine nerver." 
 
 "Tror du, at jeg kunne glemme det ansigt?" mumlede hun. "Tre gange har jeg set den rustvogn under mit vindue, og hver gang har kusken vendt sig og kigget på mig. Åh, hans ansigt var så blegt og så - så blødt? Han lignede død - det så ud som om, at han havde været død i lang tid." 
 
 Jeg foreslog, at pigen satte sig ned for at drikke et glas Marsala. Så satte jeg mig ved siden af hende, og forsøgte at give hende nogle råd. 
 
-"Hør nu her, Tessie," sagde jeg, "tag på landet en uge eller to, og du vil ikke længere drømme om rustvogne. Du poserer hele dagen, og når natten kommer, så er dine nerver anspændte. Du kan ikke blive ved på denne måde. Og så, i stedet for at gå i seng, når din arbejdsdag er overstået, så tager du på udflugt i Sulzer Park, eller tager til Eldorado eller Coney Island, og når du kommer her næste dag, er du helt udmattet. Det var ikke nogen virkelig rustvogn.  Det var en blød-skallet krabbe drøm." 
+"Hør nu her, Tessie," sagde jeg, "tag på landet en uge eller to, og du vil ikke længere drømme om rustvogne. Du poserer hele dagen, og når natten kommer, så er dine nerver anspændte. Du kan ikke blive ved på denne måde. Og så, i stedet for at gå i seng, når din arbejdsdag er overstået, så tager du på udflugt i Sulzer Park, eller tager til Eldorado eller Coney Island, og når du kommer her næste dag, er du helt udmattet. Det var ikke nogen virkelig rustvogn.  Det var en blød-skallet krabbe-drøm." 
 
 Hun smilte svagt. 
 
@@ -127,7 +127,7 @@ Tessie rejste sig og tog sit duftende lommetørklæde frem, og fandt et stykke t
 
 #### II 
 
-Den næste morgen bragte Thomas mig *Herald* og en del nyheder. Kirken ved siden af var blevet solgt. Jeg takkede himlen for det; ikke fordi jeg som katolik følte afsky overfor menigheden ved siden af, men fordi mine nerver var tyndslidte af den præst, som talte så kraftigt, at ethvert af hans ord genlød gennem kirken, så det virkede, som at han stod i min stue. Han insisterede kraftigt på rullende r'er med en nasal udholdenhed, som fik ethvert af mine instinkter til at gøre modstand. Og der var ligeledes en djævel i menneskelig form, som slingrede sig igennem de gamle salmer med sin helt personlige fortolkninger; og jeg længtes inderligt efter blodet fra et væsen, som kunne spille doxologien med en ændring af molakkorderne, som man kun hører det i en kvartet af unge studerende. Jeg tror nok, at præsten var en udmærket mand, men når han brølede: "Og Herrrren sagde til Moses, Herrrren er en krigens mand; Herrrren er hans navn. Min verden skal vokse og jeg vil drrrræbe jer med mit sværrrrd!" Så tænkte jeg på, hvor mange århundreder man skulle tilbringe i skærsilden for at sone denne synd.
+Den næste morgen bragte Thomas mig *Herald* og en del nyheder. Kirken ved siden af var blevet solgt. Jeg takkede himlen for det; ikke fordi jeg som katolik følte afsky overfor menigheden ved siden af, men fordi mine nerver var tyndslidte af den præst, som talte så kraftigt, at ethvert af hans ord genlød gennem kirken, så det virkede, som at han stod i min stue. Han insisterede kraftigt på rullende r'er med en nasal udholdenhed, som fik ethvert af mine instinkter til at gøre modstand. Og der var ligeledes en djævel i menneskelig form, som slingrede sig igennem de gamle salmer med sine helt personlige fortolkninger; og jeg længtes inderligt efter blodet fra et væsen, som kunne spille doxologien med en ændring af molakkorderne, som man kun hører det i en kvartet af unge studerende. Jeg tror nok, at præsten var en udmærket mand, men når han brølede: "Og Herrrren sagde til Moses, Herrrren er en krigens mand; Herrrren er hans navn. Min verden skal vokse og jeg vil drrrræbe jer med mit sværrrrd!" Så tænkte jeg på, hvor mange århundreder man skulle tilbringe i skærsilden for at sone denne synd.
 
 "Hvem har købt ejendommen?" spurgte jeg Thomas. 
 
@@ -163,7 +163,7 @@ Den unge mand blev flov og rød i kinderne og smilte usikkert.
 
 "Men hvad var i bange for?"
 
-Thomas nægtede at svare nogle øjeblikke, men min nysgerrighed var antændt angående den frastødende unge mand overfor, og jeg pressede på. Tre år i Amerika havde ikke alene modificeret Thomas' cockney dialekt, men det havde ligeledes givet ham den amerikanske frygt for at blive latterliggjort. 
+Thomas nægtede at svare i nogle øjeblikke, men min nysgerrighed var antændt angående den frastødende unge mand overfor, og jeg pressede på. Tre år i Amerika havde ikke alene modificeret Thomas' cockney dialekt, men det havde ligeledes givet ham den amerikanske frygt for at blive latterliggjort. 
 
 "Du tror mig ikke, Mr. Scott, sir?"
 
@@ -175,11 +175,11 @@ Thomas nægtede at svare nogle øjeblikke, men min nysgerrighed var antændt ang
 
 Han tøvede. "Ja, sir, det er Guds sandhed, at da jeg greb hans håndled, sir, og vred dem, de bløde, fugtige næver, da gled en finger ind i mig 'og ... " 
 
-Den rene frastødelse og rædsel i Thomas ansigt må mave været reflekteret i mig eget, og han tilføjede: 
+Den rene frastødelse og rædsel i Thomas ansigt må være blevet reflekteret i mig eget, og han tilføjede: 
 
 "Det er rædselsfuldt, og når jeg ser ham nu, så går jeg blot bort. Han gør mig syg," 
 
-Da Thomas var gået, gik jeg hen til vinduet. Manden stod med begge hænder hvilende på porten, men jeg trak mig hastigt tilbage til mit staffeli igen, syg og forfærdet, fordi jeg så, at langfingeren på den højre hånd manglede.
+Da Thomas var gået, gik jeg hen til vinduet. Manden stod med begge hænder hvilende på porten, men jeg trak mig hastigt tilbage til mit staffeli igen, syg og forfærdet, fordi jeg så, at langefingeren på den højre hånd manglede.
 
 Klokken ni ankom Tessie og forsvandt bagved skærmen med et glad: "Godmorgen Mr. Scott." Da hun viste sig igen, indtog hun sin position, og jeg begyndte på et nyt lærred til hendes store glæde. Hun forblev stille, mens jeg tegnede, men så snart lyden af kulets skraben forsvandt, og jeg tog fiksativ frem, begyndte hun at sludre. 
 
@@ -207,7 +207,7 @@ Så fortalte hun, hvordan Ed var kommet tilbage fra strømpefabrikken i Lowell, 
 
 "Det er bedre, " sagde hun. 
 
-Jeg tænkte det samme, og jeg spiste frokost med en tilfreds følelse af, at alt gik ganske godt. Tessie placerede hendes frokost på et tegnebord overfor mig, og vi drak claret fra den samme flaske og tændte vores cigaretter fra den samme tændstik. Jeg var nært knyttet til Tessie. Jeg havde set hende vokse til en slank, men udsøgt formet kvinde; tidligere havde hun været et skrøbeligt, akavet barn. Hun havde poseret for mig de sidste tre år, og blandt modellerne var hun min favorit. Det ville have bekymret mig, hvis hun var blevet '"rå" eller "hård", som fraserne siger, men jeg oplevede aldrig nogen forringelse af hendes væremåde, og jeg følte i hjertet, at hun var ganske sund. Hun og jeg snakkede aldrig moral, dels fordi jeg ikke selv havde nogen, dels fordi jeg vidste, at hun alligevel ville gøre, hvad hun havde lyst til, på trods af mig. Men jeg håbede stadig på, at hun ville holde sig fri af komplikationer, fordi jeg ønskede hende godt, og fordi at jeg havde et selvisk ønske om at beholde min bedste model. Jeg vidste at "flirte", som hun kaldte det, ingen betydning havde for piger som Tessie, og at disse ting i Amerika ikke på nogen måde ligner de samme ting i Paris. Men jeg havde levet med mine øjne åbne, og jeg vidste, at en skønne dag, så ville en eller anden tage Tessie, og selvom jeg foregav, at ægteskab var uden mening, så håbede jeg alligevel inderligt, i dette tilfælde, at der ville være en præst for enden af turen. Jeg er katolik. Når jeg lytter til højmessen eller når jeg gør korsets tegn, så føler jeg at alle ting, herunder mig selv, får en større harmoni, og når jeg skrifter, så gør det mig godt. En mand som lever så meget alene som jeg, må bekende sig til en eller anden.  Og Sylvia var også katolik, og det var nok på grund af mig. Men jeg taler om Tessie, som er et meget anderledes tilfælde. Tessie var ligeledes katolik, og meget mere from end jeg, så alt i alt havde jeg få bekymringer angående min smukke model; i hvert fald indtil den dag, hvor hun ville forelske sig. Men *da* vidste jeg, at skæbnen alene ville bestemme hendes fremtid , og jeg bad inderligt om, at skæbnen ville holde hende borte fra mænd som mig selv og i stedet kaste mænd som Ed Burke og Jimmy McCormicks på hendes vej, velsignet være hendes smukke ansigt!
+Jeg tænkte det samme, og jeg spiste frokost med en tilfreds følelse af, at alt gik ganske godt. Tessie placerede hendes frokost på et tegnebord overfor mig, og vi drak claret fra den samme flaske og tændte vores cigaretter fra den samme tændstik. Jeg var nært knyttet til Tessie. Jeg havde set hende vokse til en slank, men udsøgt formet kvinde; tidligere havde hun været et skrøbeligt, akavet barn. Hun havde poseret for mig de sidste tre år, og blandt modellerne var hun min favorit. Det ville have bekymret mig, hvis hun var blevet "rå" eller "hård", men jeg oplevede aldrig nogen forringelse af hendes væremåde, og jeg følte i hjertet, at hun var ganske sund. Hun og jeg snakkede aldrig moral, dels fordi jeg ikke selv havde nogen, dels fordi jeg vidste, at hun alligevel ville gøre, hvad hun havde lyst til, på trods af mig. Men jeg håbede stadig på, at hun ville holde sig fri af komplikationer, fordi jeg ønskede hende godt, og fordi at jeg havde et selvisk ønske om at beholde min bedste model. Jeg vidste at "flirte", som hun kaldte det, ingen betydning havde for piger som Tessie, og at disse ting i Amerika ikke på nogen måde ligner de samme ting i Paris. Men jeg havde levet med mine øjne åbne, og jeg vidste, at en skønne dag, så ville en eller anden tage Tessie, og selvom jeg foregav, at ægteskab var uden mening, så håbede jeg alligevel inderligt, i dette tilfælde, at der ville være en præst for enden af turen. Jeg er katolik. Når jeg lytter til højmessen eller når jeg gør korsets tegn, så føler jeg at alle ting, herunder mig selv, får en større harmoni, og når jeg skrifter, så gør det mig godt. En mand som lever så meget alene som jeg, må bekende sig til en eller anden.  Og Sylvia var også katolik, og det var nok på grund af mig. Men jeg taler om Tessie, som er et meget anderledes tilfælde. Tessie var ligeledes katolik, og meget mere from end mig, så alt i alt havde jeg få bekymringer angående min smukke model; i hvert fald indtil den dag, hvor hun ville forelske sig. Men *da* vidste jeg, at skæbnen alene ville bestemme hendes fremtid , og jeg bad inderligt om, at skæbnen ville holde hende borte fra mænd som mig selv og i stedet sende mænd som Ed Burke og Jimmy McCormicks på hendes vej, velsignet være hendes smukke ansigt!
 
 Tessie sad og blæste ringe af røg op mod loftet og klirrede med isterningerne i hendes drinkglas.
 
@@ -221,13 +221,13 @@ Det var tåbeligt og tankeløst af mig at sige dette, men du ved, hvor lidt takt
 
 Tessie havde vendt sit ansigt bort og lænede sig nu ind over bordet og lagde hovedet på albuen.
 
-"Jeg kunne se dit ansigt, " fortsatte jeg, "og det virkede på mig, som om at det var opfyldt af sorg. Så fortsatte vi og drejede ind på en smal sort sti. Hestene standsede med det samme. Jeg ventede og ventede, mens jeg lukkede mine øjne med opmærksomhed og utålmodighed, men alt var stille som graven. Efter et tidsrum, som forekom mig at være timer, begyndte jeg at føle mig utilpas. En fornemmelse af at nogen var tæt på mig, fik mig til at åbne øjnene. Da så jeg kuskens hvide ansigt, som kiggede ned på mig gennem kistens låg. 
+"Jeg kunne se dit ansigt, " fortsatte jeg, "og det virkede på mig, som om at det var opfyldt af sorg. Så fortsatte vi og drejede ind på en smal sort sti. Hestene standsede med det samme. Jeg ventede og ventede, mens jeg lukkede mine øjne med opmærksomhed og utålmodighed; alt var stille som graven. Efter et tidsrum, som forekom mig at være timer, begyndte jeg at føle mig utilpas. En fornemmelse af at nogen var tæt på mig, fik mig til at åbne øjnene. Da så jeg kuskens hvide ansigt, som kiggede ned på mig gennem kistens låg. 
 
-Et suk fra Tessie afbrød. Hun rystede som et løv på et træ. Jeg kunne se, at jeg havde gjort mig selv til en idiot og ville nu forsøge at rette fejlen. 
+Et suk fra Tessie afbrød mig. Hun rystede som løv på et træ. Jeg kunne se, at jeg havde gjort mig selv til en idiot og ville nu forsøge at rette fejlen. 
 
 "Hvorfor, Tess," sagde jeg, "Jeg fortalte dig kun dette, for at vise dig hvilken indvirkning en historie kan have på en anden persons drømme. Du tror ikke på, at jeg virkelig lå i en kiste, gør du? Hvorfor ryster du? Kan du ikke se at din drøm og min ufornuftige afsky for vægteren, fik min hjerne til at arbejde, så snart jeg var faldet i søvn?"
 
-Hun lagde sit hoved mellem sine arme, og græd som om, at hendes hjerte kunne gå i stykker. Sikke en idiot jeg havde gjort ud af mig selv! Men jeg var ved at bryde den rekord. Jeg gik til hende og lagde min arm omkring hende. 
+Hun lagde sit hoved mellem sine arme og græd som om, at hendes hjerte kunne gå i stykker. Sikke en idiot jeg havde gjort ud af mig selv! Men jeg var ved at slå den rekord. Jeg lagde min arm omkring hende. 
 
 "Tessie, min kære, tilgiv mig," sagde jeg; "det var ikke min mening at forskrække dig med mit vrøvl. Du er så følsom en pige, så god en katolik, at du ikke bør tro på drømme. 
 
@@ -247,17 +247,17 @@ Hendes øjne åbnede sig med en langsom flydende bevægelse og mødte mine, men 
 
 "For mig, så?" spurgte jeg muntert. 
 
-"For dig," mumlede hun med en stemme, som næsten ikke lod sig høre. Jeg - Jeg holder af dig." 
+"For dig," mumlede hun med en stemme, som næsten ikke lod sig høre. "Jeg - Jeg holder af dig." 
 
 Jeg begyndte først at le, men da jeg forstod hende, gik et chok igennem mig, og jeg sad som forvandlet til sten. Nu var jeg kronet som idioternes konge. I tiden mellem hendes svar og mit svar gik der tusinde tanker gennem mit hoved, og jeg forsøgte at finde de bedste ord til den uskyldige indrømmelse. Jeg kunne forbigå det med en latter, eller jeg kunne misforstå hende, eller ganske simpelt sige, at det var umuligt for hende at elske mig. Men mit svar var hurtigere end mine tanker, og jeg kunne tænke og tænke, men det var for sent; jeg havde kysset hende på munden. 
 
 Den aften gik jeg min sædvanlige tur i Washington Park, mens jeg spekulerede over dagens hændelser, som havde min fulde opmærksomhed. Der var ingen vej tilbage nu, og jeg stirrede fremtiden lige i øjnene. Jeg var ikke god, end ikke samvittighedsfuld, men jeg havde ingen ide om at bedrage hverken mig selv eller Tessie. Den eneste sande passion i mit liv lå begravet i de solbeskinnede skove i Breton. Skulle passionen ligge begravet der for evigt? Håbet råbte "Nej!" I tre år havde jeg hørt efter Håbets stemme, og i tre år havde jeg ventet trin på dørtærsklen. Var Sylvia glemt? "Nej" råbte Håbet. 
 
-Jeg sagde, at jeg ikke var noget godt. Det er sandt, men stadig så var jeg dog ikke en komisk opera skurk. Jeg havde levet et let og bekymringsfrit liv, hvor jeg havde taget de nydelser, som havde inviteret mig, og nogle af disse havde jeg fortrudt bitterligt. Kun omkring en ting, bortset fra min malerkunst, var jeg seriøs, og det var noget, som lå gemt, hvis ikke det var gået helt tabt, i Bretons skove.  
+Jeg sagde, at jeg ikke var noget godt. Det er sandt, men stadig så var jeg dog ikke en komisk opera skurk. Jeg havde levet et let og bekymringsfrit liv, hvor jeg havde taget de nydelser, som havde inviteret mig, og nogle af disse havde jeg fortrudt bitterligt. Kun omkring en ting, bortset fra min malerkunst, var jeg seriøs, og det var noget, som lå gemt, hvis ikke det var gået helt tabt, i Bretons skove. 
 
 Det var for sent at fortryde, hvad der var sket tidligere på dagen. Hvad det end kunne være; medlidenhed, en pludselig ømhed ud af sorg, eller mere brutale instinkter af forfængelighed. Det var alt sammen ligegyldigt nu, og med mindre jeg ønskede at knuse et uskyldigt hjerte, så lå min sti tydeligt markeret foran mig. Ilden og styrken, dybden i kærlighedens passion, som jeg aldrig har miskendt, gav mig ikke andre muligheder end at besvare hende eller sende hende bort. Jeg ved ikke, om det er fordi, at jeg er kujonagtig, når det gælder om at såre andre, eller om det er fordi, at jeg har en indre puritaner i mig; men jeg veg bort fra ideen om at fraskrive mig ansvar for det tankeløse kys; og talt i sandhed så havde jeg ingen tid haft, førend hendes hjertes port var blevet åbnet og bølgen vældede frem. Andre, som har for vane at gøre deres pligt, og finde sur tilfredsstillelse ved at gøre dem selv og alle andre ulykkelige, kunne sikkert benægte dette. Det gjorde jeg ikke. Jeg vovede ikke. Efter at stormen havde lagt sig, fortalte jeg hende, at det ville være bedre, hvis hun elskede Ed Burke og bar en simpel guldring, men det ville hun ikke høre tale om, og jeg tænkte, at hvis hun valgte at elske en eller anden, som hun ikke kunne gifte sig med, så kunne det ligeså godt være mig. Jeg ville i det mindste behandle hende med en intelligent affektion. og når hun blev træt af hendes betagelse, så ville hun sikkert ikke blive slemt skuffet. Og jeg var fast besluttet, selvom jeg vidste, hvor svært det ville blive. Jeg huskede brud på platoniske forhold, og jeg tænkte på, hvor meget det frastødte mig, når jeg hørte om det. Jeg vidste, at jeg tog et stort valg, når jeg tænkte på, hvor skrupelløs jeg kunne være. Jeg forestillede mig fremtiden, og jeg tvivlede ikke et øjeblik på, at hun ville være i sikkerhed hos mig. Hvis det havde været enhver anden end Tessie, så ville jeg ikke have ladet skrupler bekymre mit hoved. Men jeg troede ikke, at jeg ville være i stand til at ofre Tessie i denne forstand. Jeg stirrede fremtiden direkte i øjnene og så flere mulige afslutninger på hele affæren. Hun kunne blive træt af det hele eller blive så ulykkelig, at jeg enten måtte gifte mig med hende eller forlade hende. Hvis jeg giftede mig med hende, så ville vi blive ulykkelige. Jeg med en hustru, som ikke passede mig, og hun med en mand, som ikke passede nogen kvinde.  Mit tidligere liv burde fratage mig retten til at gifte mig. Hvis jeg løb bort, så ville hun enten blive syg, komme sig og gifte sig med en fyr som Eddie Burke; eller hun ville tankeløst eller bevidst gøre noget tåbeligt.  På den anden side; hvis hun blev træt af mig, så ville hele hendes liv ligge foran hende i skønne syn af Eddie Burke og vielsesringe og tvillinger og Harlem-lejligheder og Gud ved hvad. Mens jeg fortsatte forbi træerne ved Washington Buen, besluttede jeg mig for, at hun kunne få sig en betydelig ven i mig, og uanset hvad, så ville fremtiden tage vare på sig selv. Jeg gik tilbage til mit hjem og klædte mig i kjole og hvidt, for den lille parfumerede note på min kommode befalede: "Tag en vogn, og vær ved scenedøren klokken elleve." Noten var underskrevet af "Edith Carmichel, Metropolitan Teateret."
 
-Jeg spiste en let anretning denne nat, eller rettere vi spiste en let anretning, Miss Carmichel og jeg, på Solari's, og daggryet kunne anes, og korset på Memorial Church blev forgyldt, da jeg gik ind i Washington Square, efter at jeg havde forladt Edith ved Brunswick. Der var ikke en sjæl i parken, da jeg gik forbi træer og valgte den tur, der fører fra Garibaldi statuen til Hamilton lejlighederne, men da jeg passerede kirkegården, så jeg en figur, som sad på stentrapperne. På trods af egen modstand gled en kuldegysen igennem mig ved synet af det hvide oppustede ansigt, og jeg skyndte mig at gå videre. Så sagde han noget, som muligvis var henvendt til mig, eller det var måske blot en mumlen for ham selv, men en pludselig voldsom vrede brændte inden i mig; hvorfor skulle dette væsen henvende sig til mig. I et øjeblik følte jeg trang til at vende om og smadre min stok mod hans hoved, men jeg gik videre, og nåede Hamilton, hvor jeg gik ind i min lejlighed. I nogen tid lå jeg i min seng og drejede rundt, mens jeg søgte at få lyden af hans stemme ud af mit hoved, men jeg kunne ikke. Stemmen fyldte mit hoved, denne mumlende lyd, som tyk røg fra en stor gryde, der steger fedt og kød, eller som stanken af larmende forrådnelse. Og som jeg lå der og drejede og smed mig rundt, blev stemmen i mine ører mere og mere klar, og jeg begyndte at forstå ordene, som han havde mumlet. De kom til mig ganske langsomt, som noget man har glemt, og til sidst kunne jeg danne mening i lydene. Det var dette: 
+Jeg spiste en let anretning denne nat, eller rettere vi spiste en let anretning, Miss Carmichel og jeg, på Solari's, og daggryet kunne anes, og korset på Memorial Church blev forgyldt, da jeg gik ind på Washington Square, efter at jeg havde forladt Edith ved Brunswick. Der var ikke en sjæl i parken, da jeg valgte den tur, der fører fra Garibaldi statuen til Hamilton lejlighederne, men da jeg passerede kirkegården, så jeg en figur, der sad på stentrapperne. På trods af min egen modstand gled en kuldegysen igennem mig ved synet af det hvide, oppustede ansigt, og jeg skyndte mig at gå videre. Så sagde han noget, som muligvis var henvendt til mig, eller det var måske blot en mumlen for ham selv, men en pludselig, voldsom vrede brændte inden i mig; hvorfor skulle dette væsen henvende sig til mig. I et øjeblik følte jeg trang til at vende mig om og smadre min stok mod hans hoved, men jeg gik videre, og nåede Hamilton, hvor jeg gik ind i min lejlighed. I nogen tid lå jeg i min seng og drejede rundt, mens jeg søgte at få lyden af hans stemme ud af mit hoved, men jeg kunne ikke. Stemmen fyldte mit hoved, denne mumlende lyd, som tyk røg fra en stor gryde, der steger fedt og kød, eller som stanken af larmende forrådnelse. Og som jeg lå der og drejede og smed mig rundt, blev stemmen i mine ører mere og mere klar, og jeg begyndte at forstå ordene, som han havde mumlet. De kom til mig ganske langsomt, som noget man har glemt, og til sidst kunne jeg danne mening i lydene. Det var dette: 
 
 "Har du fundet Det Gule Tegn?"
 
@@ -275,7 +275,7 @@ Tessie så bevidst ud, men svarede ikke. Jeg begyndte at jagte det mellem bunker
 
 Da jeg til sidst opgav min søgning imellem lærreder og kiggede rundt i rummet efter det manglende billede, bemærkede jeg, at Tessie stod med sit tøj på ved siden af skærmen. 
 
-"Hvad er der galt?", spurgte jeg, "har du ikke godt?"
+"Hvad er der galt?", spurgte jeg, "har du det ikke godt?"
 
 "Jo."
 

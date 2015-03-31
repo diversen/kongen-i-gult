@@ -2,8 +2,8 @@
 
 > "Åh, du, som brænder i hjertet på dem, der brænder  
 > I Helvede, hvis ild som du skal fodre til gengæld;  
-> hvor lang tid er der gråd - ". Barmhjertighed til dem." Gud!  
-> Hvorfor skal du lære og Han forstå?"  
+> hvor lang tid er der gråd". Barmhjertighed til dem. "Gud!  
+> Hvorfor skal du undervise og Han forstå?"  
 
 I kirken St. Barnabé var indgangsbønnen fuldført; gejstligheden forlod alteret; de små kordrenge strømmede over koret og satte sig i båsene. En Schweizer i prangende uniform gik ned langs sydskibets stengulv, fire skridt foran resten af personalet; bag ham kom den veltalende prædikant og gode mand, Monseigneur C.
 
@@ -11,7 +11,7 @@ Min plads var nær korets alterskranke, og jeg vendte mod vestfløjen af kirken.
 
 Jeg har altid fundet orgelspillet i St. Barnabé yderst interessant. Lært og videnskabelig syntes det mig; måske for meget for min personlige smag, men det udtrykker en levende og kold intelligens. Desuden var der en fransk kvalitet i lyden; en lyd styret enerådigt af selvkontrol, værdighed og tilbageholdenhed.
 
-I dag, til gengæld, lige fra den første akkord, følte jeg en forandring til det værre, en skummel forandring. Under indgangsbønnen havde korets orgel for det meste understøttet den smukke sang, men nu og da, da virkede det som om, at der fra vestfløjen, hvor det store orgel står,  gik en tung stemning gennem kirken, som brød den fredfyldte ro i de klare sangstemmer. Det var anderledes end hårdt og disharmonisk, og det afslørede ikke nogen mangel på dygtighed. Da det gentog sig igen og igen, begyndte jeg at tænke på, hvad mine arkitektbøger siger om skik og brug i ældre tider, hvor man indviede koret, så snart det var blevet bygget; og at skibet, som undertiden først var færdig et halvt århundrede senere, ofte ikke fik nogen velsignelse: Og jeg spekulerede nu på, om det havde været tilfældet i St. Barnabé, og om noget ikke normalt kunne formodes at have taget hjemsted i en kristen kirke, noget uopdaget, som havde bemægtiget sig vestfløjen. Jeg havde læst om, at sådanne ting sker, men dog ikke i et stykke arkitektonisk litteratur.
+I dag, til gengæld, lige fra den første akkord, følte jeg en forandring til det værre, en skummel forandring. Under indgangsbønnen havde korets orgel for det meste understøttet den smukke sang, men nu og da, da virkede det som om, at der fra vestfløjen, hvor det store orgel står, kom en tung stemning gennem kirken, som brød den fredfyldte ro i de klare sangstemmer. Det var anderledes end hårdt og disharmonisk, og det afslørede ikke nogen mangel på dygtighed. Da det gentog sig igen og igen, begyndte jeg at tænke på, hvad mine arkitektbøger siger om skik og brug i de ældre tider, hvor man indviede koret, så snart det var blevet bygget; og at skibet, som undertiden først var færdig et halvt århundrede senere, ofte ikke fik nogen velsignelse: Og jeg spekulerede nu på, om det havde været tilfældet i St. Barnabé, og om noget ikke normalt kunne formodes at have taget hjemsted i en kristen kirke, noget uopdaget, som havde bemægtiget sig vestfløjen. Jeg havde læst om, at sådanne ting sker, men dog ikke i et stykke arkitektonisk litteratur.
 
 Så huskede jeg, at St. Barnabé ikke var meget mere end hundrede år gammel, og jeg smilede over den ulogiske association mellem middelalderlig overtro og dette muntre, lille stykke rokoko fra det attende århundrede.
 
