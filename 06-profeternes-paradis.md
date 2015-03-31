@@ -9,7 +9,7 @@
 
 Han smilte og sagde: "Søg hende i verdenen". 
 
-Jeg sagde: "Hvorfor fortælle mig om verdenen? Min verden er her, mellem disse vægge og glassets foroven; her iblandt glitrende flasker og kedeligt forgyldte våbenskjold, plettede rammer og lærreder, sorte kister og højryggede stole med mærkelige udskæringer og farvet i blåt og guld."
+Jeg sagde: "Hvorfor fortælle mig om verdenen? Min verden er her, mellem disse vægge og glasset foroven; her iblandt glitrende flasker og kedeligt forgyldte våbenskjold, plettede rammer og lærreder, sorte kister og højryggede stole med mærkelige udskæringer og farvet i blåt og guld."
 
 "Hvem venter du på?" sagde han, og jeg svarede: "Når hun kommer så skal jeg kende hende."
 
@@ -91,7 +91,7 @@ Alle øjne var vendt imod mig.
 
 "Var hun retfærdig?" spurgte jeg, men han snerrede blot, mumlende til de klirrende klokker i hans hætte. 
 
-"Hun kyssede ham ved porten, " fniste han, "men i entreen rørte broderens velkomst hendes hjerte."
+"Hun kyssede ham ved porten," fniste han, "men i entreen rørte broderens velkomst hendes hjerte."
 
 "Var hun retfærdig?" spurgte jeg.
 
@@ -111,11 +111,11 @@ Klovnen vendte sit pudrede ansigt mod spejlet.
 
 "Hvem kan sammenligne sig med mig?" spurgte døden, "for jeg dog endnu mere bleg." 
 
-"Du er meget smuk, " sukkede klovnen, og vendte sit pudrede ansigt bort fra spejlet. 
+"Du er meget smuk," sukkede klovnen, og vendte sit pudrede ansigt bort fra spejlet. 
 
 #### Kærligheds Testen
 
-"Hvis det er sandt at du elsker hende, " sagde Kærlighed, "så giv hende disse smykker, som vil vanære hende, og derved vanære dig for at elske een i vanære. Hvis det er sandt at du elsker, " sagde Kærlighed, "så vent ikke længere." 
+"Hvis det er sandt at du elsker hende, " sagde Kærlighed, "så giv hende disse smykker, som vil vanære hende, og derved vanære dig for at elske een i vanære. Hvis det er sandt at du elsker," sagde Kærlighed, "så vent ikke længere." 
 
 Jeg tog smykkerne og gik til hende, men hun trådte på dem, hulkende: "Lær mig at vente - jeg elsker dig." 
 
