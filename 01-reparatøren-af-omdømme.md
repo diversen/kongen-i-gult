@@ -356,7 +356,7 @@ Jeg svarede ikke, men tog kronen tilbage fra hans hænder, anbragte den i penges
 
 "Hvor har du været?" udspurgte jeg.
 
-"Sprunget gennem mudrede åer i Jersey," sagde han. "Jeg har ikke haft tid til at skifte endnu; jeg havde temmelig travlt med at komme og se dig. Har du ikke fået et glas et eller andet? Jeg er dødtræt; været i sadlen i fireogtyve timer ."
+"Sprunget gennem mudrede åer i Jersey," sagde han. "Jeg har ikke haft tid til at skifte endnu; jeg havde temmelig travlt med at komme og se dig. Har du ikke fået et glas et eller andet? Jeg er dødtræt; været i sadlen i fireogtyve timer."
 
 Jeg gav ham noget brandy fra min medicinskab, som han drak med en skæv grimasse.
 
