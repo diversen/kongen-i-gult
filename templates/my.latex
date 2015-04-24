@@ -162,7 +162,7 @@ $endif$
 
 \begin{document}
 % \backmatter
-\pagestyle{fancy}
+\pagestyle{empty}
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
 \lhead{}
