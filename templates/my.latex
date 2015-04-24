@@ -6,7 +6,7 @@
 \usepackage{ifxetex,ifluatex}
 \usepackage{titlesec}
 \usepackage{fixltx2e} % provides \textsubscript
-% \usepackage[paperwidth=6in, paperheight=9in]{geometry}
+\usepackage[paperwidth=6in, paperheight=9in]{geometry}
 %margin=0.9in, 
 % use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -112,7 +112,6 @@ $if(links-as-notes)$
 
 % no chapter word
 \renewcommand{\chaptername}{}
-% \renewcommand{\chaptername}{}
 % \renewcommand*\thesection{\arabic{section}}
 $endif$
 $if(strikeout)$
@@ -160,11 +159,9 @@ $endif$
 % \titleformat{\chapter}{\normalfont\huge}{\thechapter.}{18pt}{\huge\it}
 \titleformat{\chapter}{\normalfont\huge}{\thechapter.}{14pt}{\huge}
 
-
 \begin{document}
-% \backmatter
-\pagestyle{myheadings}
-%\pagestyle{plain}
+\backmatter
+\pagestyle{plain}
 
 
 $if(title)$
