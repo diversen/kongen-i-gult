@@ -164,7 +164,8 @@ $endif$
 \begin{document}
 % \backmatter
 %\pagestyle{myheadings}
-\pagestyle{plain}
+% \pagestyle{plain}
+\pagestyle{myheadings}
 
 
 $if(title)$
