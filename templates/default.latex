@@ -5,6 +5,7 @@
 \usepackage{ifxetex,ifluatex}
 \usepackage{fixltx2e} % provides \textsubscript
 % use upquote if available, for straight quotes in verbatim environments
+\usepackage[paperwidth=6in, paperheight=9in]{geometry}
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[utf8]{inputenc}
@@ -102,6 +103,8 @@ $endif$
             pdfborder={0 0 0}}
 \urlstyle{same}  % don't use monospace font for urls
 $if(links-as-notes)$
+% no chapter word
+\renewcommand{\chaptername}{}
 % Make links footnotes instead of hotlinks:
 \renewcommand{\href}[2]{#2\footnote{\url{#1}}}
 $endif$
@@ -140,9 +143,15 @@ $if(subtitle)$
 \subtitle{$subtitle$}
 $endif$
 \author{$for(author)$$author$$sep$ \and $endfor$}
+%no date
+\date{}
 \date{$date$}
+%indent para
+\setlength{\parindent}{1em}
+\setlength{\parskip}{0em}
 
 \begin{document}
+\titleformat{\chapter}{\normalfont\huge}{\thechapter.}{14pt}{\huge}
 $if(title)$
 \maketitle
 $endif$
