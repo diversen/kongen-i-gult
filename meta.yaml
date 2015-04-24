@@ -21,7 +21,7 @@ private: true
 format-arguments:
     #html: -S --chapters --toc
     # -V fontsize=12pt
-    pdf: -V documentclass=book --template=templates/default.latex -S --toc --chapters -V fontsize=12pt  -V lang=danish
+    pdf: -V documentclass=memoir --template=templates/default.latex -S --toc --chapters -V fontsize=12pt  -V lang=danish
     epub: -S --toc --toc-depth=1
     mobi: ok
     html-chunked: -s -S
