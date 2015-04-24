@@ -1,13 +1,12 @@
 \documentclass[$if(fontsize)$$fontsize$,$endif$$if(lang)$$lang$,$endif$$if(papersize)$$papersize$,$endif$$for(classoption)$$classoption$$sep$,$endfor$]{$documentclass$}
+% \documentclass[12pt]{extmemoir}
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
 \usepackage{titlesec}
 \usepackage{fixltx2e} % provides \textsubscript
-\usepackage{fancyhdr}
-
-% \usepackage[paperwidth=6in, paperheight=9in]{geometry}
+\usepackage[paperwidth=6in, paperheight=9in]{geometry}
 %margin=0.9in, 
 % use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -161,9 +160,8 @@ $endif$
 \titleformat{\chapter}{\normalfont\huge}{\thechapter.}{14pt}{\huge}
 
 \begin{document}
-% \backmatter
+\backmatter
 \pagestyle{myheadings}
-
 
 
 $if(title)$
