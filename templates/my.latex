@@ -157,7 +157,7 @@ $endif$
 
 % titles
 % \titleformat{\chapter}{\normalfont\huge}{\thechapter.}{18pt}{\huge\it}
-\titleformat{\chapter}{\normalfont\huge}{\thechapter.}{14pt}{\huge}
+% \titleformat{\chapter}{\normalfont\huge}{\thechapter.}{14pt}{\huge}
 
 \begin{document}
 % \backmatter
