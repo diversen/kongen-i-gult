@@ -160,8 +160,8 @@ $endif$
 \titleformat{\chapter}{\normalfont\huge}{\thechapter.}{14pt}{\huge}
 
 \begin{document}
-% \backmatter
-% \pagestyle{myheadings}
+\backmatter
+\pagestyle{myheadings}
 
 
 $if(title)$
