@@ -143,6 +143,8 @@ $if(subtitle)$
 \subtitle{$subtitle$}
 $endif$
 \author{$for(author)$$author$$sep$ \and $endfor$}
+
+\titleformat{\chapter}{\normalfont\huge}{\thechapter.}{14pt}{\huge}
 %no date
 \date{}
 \date{$date$}
@@ -151,7 +153,7 @@ $endif$
 \setlength{\parskip}{0em}
 
 \begin{document}
-\titleformat{\chapter}{\normalfont\huge}{\thechapter.}{14pt}{\huge}
+
 $if(title)$
 \maketitle
 $endif$
