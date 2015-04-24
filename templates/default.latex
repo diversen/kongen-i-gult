@@ -6,7 +6,7 @@
 \usepackage{ifxetex,ifluatex}
 \usepackage{titlesec}
 \usepackage{fixltx2e} % provides \textsubscript
-%\usepackage[paperwidth=6in, paperheight=9in]{geometry}
+\usepackage[paperwidth=6in, paperheight=10in]{geometry}
 %margin=0.9in, 
 % use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -161,7 +161,7 @@ $endif$
 
 \begin{document}
 \backmatter
-% \pagestyle{myheadings}
+\pagestyle{myheadings}
 
 
 $if(title)$
