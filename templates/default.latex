@@ -3,7 +3,7 @@
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
 %titleformat
-\usepackage{titlesec}
+% \usepackage{titlesec}
 \usepackage{ifxetex,ifluatex}
 \usepackage{fixltx2e} % provides \textsubscript
 % use upquote if available, for straight quotes in verbatim environments
@@ -146,7 +146,7 @@ $if(subtitle)$
 $endif$
 \author{$for(author)$$author$$sep$ \and $endfor$}
 
-\titleformat{\chapter}{\normalfont\huge}{\thechapter.}{14pt}{\huge}
+% \titleformat{\chapter}{\normalfont\huge}{\thechapter.}{14pt}{\huge}
 %no date
 \date{}
 \date{$date$}
