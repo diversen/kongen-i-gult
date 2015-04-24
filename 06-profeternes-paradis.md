@@ -1,7 +1,3 @@
----
-title: 'Kongen i Gult'
-...
-
 # Profeternes Paradis
 
 > Hvis kun vin og kærlighedens fornægtere  
