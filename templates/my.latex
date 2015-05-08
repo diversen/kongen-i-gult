@@ -150,7 +150,7 @@ $if(subtitle)$
 $endif$
 \author{$for(author)$$author$$sep$ \and $endfor$}
 \date{}
-% \date{$date$}
+\date{$date$}
 
 \setlength{\parindent}{1em}
 \setlength{\parskip}{0em}
