@@ -40,7 +40,7 @@ Jeg så, at han spottede og truede *ham* med en malerstok, men så lo han og ski
 
 "Ødelagt, konserveret, hvem kan vide det?"
 
-Vi sad i et hjørne af hans studie tæt ved den ikke afsluttede gruppe "Trosretningerne". Han lænede sig tilbage i sofaen, mens han holdt en mejsel, stift stirrende på sit arbejde. 
+Vi sad i et hjørne af hans studie tæt ved den ikke afsluttede gruppe "Trosretningerne". Han lænede sig tilbage i sofaen, stift stirrende på sit arbejde, mens han holdt en mejsel. 
 
 "Forresten, jeg er færdig med at tilrette Ariadne, og jeg tror, at den skal sættes til salg. Det er alt, hvad jeg får gjort færdig i år, men efter succesen som 'Madonna' bragte mig, føler jeg skam over at fremvise en figur som denne." 
 
