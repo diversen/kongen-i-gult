@@ -1,4 +1,4 @@
-# Profeternes Paradis
+# Profeternes paradis
 
 > Hvis kun vin og kærlighedens fornægtere  
 > vil stå i profeternes paradis,  
@@ -7,13 +7,13 @@
 
 #### Studiet
 
-Han smilte og sagde: "Søg hende i verdenen". 
+Han smilte og sagde: "Søg hende i verden". 
 
-Jeg sagde: "Hvorfor fortælle mig om verdenen? Min verden er her, mellem disse vægge og glasset foroven; her iblandt glitrende flasker og kedeligt forgyldte våbenskjold, plettede rammer og lærreder, sorte kister og højryggede stole med mærkelige udskæringer og farvet i blåt og guld."
+Jeg sagde: "Hvorfor fortælle mig om verden? Min verden er her, mellem disse vægge og glasset foroven; her iblandt glitrende flasker og kedeligt forgyldte våbenskjold, plettede rammer og lærreder, sorte kister og højryggede stole med mærkelige udskæringer og farvet i blåt og guld."
 
 "Hvem venter du på?" sagde han, og jeg svarede: "Når hun kommer så skal jeg kende hende."
 
-I mit ildsted viskede en tunge af flammer hemmeligheder til den hvide aske. I gaden nedenfor hørte jeg fodtrin, en stemme og en sang. 
+I mit ildsted viskede tunger af flammer hemmeligheder til den hvide aske. I gaden nedenfor hørte jeg fodtrin, en stemme og en sang. 
 
 "Hvem venter du så på?" sagde han, og jeg svarede: "Jeg skal kende hende."
 
@@ -21,9 +21,9 @@ Fodtrin, en stemme og en sang i gaden nedenfor, og jeg kendte sangen men hverken
 
 "Fjols!" råbte han. "Sangen er den samme, men stemmen og trinnene har forandret sig med årene."
 
-I ildstedet viskede en tunge af flammer til den hvide aske: "Vent ikke længere; trinnene og stemmen i gaden er forsvundet."
+I ildstedet viskede tunger af flammer til den hvide aske: "Vent ikke længere; trinnene og stemmen i gaden er forsvundet."
 
-Så smilte han, og sagde: "Hvem venter du på? Søg hende i verdenen!" 
+Så smilte han, og sagde: "Hvem venter du på? Søg hende i verden!" 
 
 Jeg svarede: "Min verden er her, mellem disse vægge og glasset foroven; her iblandt glitrende flasker og kedeligt forgyldte våbenskjold, plettede rammer og lærreder, sorte kister og højryggede stole med mærkelige udskæringer og farvet i blåt og guld."
   
@@ -83,13 +83,13 @@ Alle øjne var vendt imod mig.
 
 #### Jokeren
 
-"Var hun retfærdig?" spurgte jeg, men han lo blot, lyttende til de klirrende klokker i hans hætte.
+"Var hun retfærdig?" spurgte jeg, men han lo blot, lyttende til de klirrende klokker i sin hætte.
 
 "Stukket," fniste han. "Tænk på den lange rejse, dage med fare og frygtelige nætter! Tænk på hvordan han vandrede, for hendes skyld, år efter år, gennem fjendtligt land, mens han længtes efter slægt og venner, længtes efter hende!"
 
-"Stukket," fniste han, lyttende til de klirrende klokker i hans hætte. 
+"Stukket," fniste han, lyttende til de klirrende klokker i sin hætte. 
 
-"Var hun retfærdig?" spurgte jeg, men han snerrede blot, mumlende til de klirrende klokker i hans hætte. 
+"Var hun retfærdig?" spurgte jeg, men han snerrede blot, mumlende til de klirrende klokker i sin hætte. 
 
 "Hun kyssede ham ved porten," fniste han, "men i entreen rørte broderens velkomst hendes hjerte."
 
@@ -101,7 +101,7 @@ Alle øjne var vendt imod mig.
 
 "Var hun retfærdig?" spurgte jeg, men han snerrede blot, lyttende til de klirrende klokker i hans hætte. 
 
-#### Det Grønne Rum
+#### Det grønne rum
 
 Klovnen vendte sit pudrede ansigt mod spejlet. 
 
@@ -109,11 +109,11 @@ Klovnen vendte sit pudrede ansigt mod spejlet.
 
 "Hvem kan sammenligne sig med ham med den hvide maske, " spurgte jeg døden ved siden af mig. 
 
-"Hvem kan sammenligne sig med mig?" spurgte døden, "for jeg dog endnu mere bleg." 
+"Hvem kan sammenligne sig med mig?" spurgte døden, "for jeg er dog endnu mere bleg." 
 
 "Du er meget smuk," sukkede klovnen, og vendte sit pudrede ansigt bort fra spejlet. 
 
-#### Kærligheds Testen
+#### Kærligheds testen
 
 "Hvis det er sandt at du elsker hende, " sagde Kærlighed, "så giv hende disse smykker, som vil vanære hende, og derved vanære dig for at elske een i vanære. Hvis det er sandt at du elsker," sagde Kærlighed, "så vent ikke længere." 
 
